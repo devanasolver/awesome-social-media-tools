@@ -1,0 +1,330 @@
+[
+  {
+    "repo": "grafana/grafana",
+    "category": "analytics",
+    "description": "Dashboards for metrics and logs. Pair it with social and ad data you already collect.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "matomo-org/matomo",
+    "category": "analytics",
+    "description": "Full web analytics platform you can self-host.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "plausible/analytics",
+    "category": "analytics",
+    "description": "Simple, privacy-friendly web analytics you can self-host. AGPL.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "PostHog/posthog",
+    "category": "analytics",
+    "description": "Product analytics, session replay and feature flags.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "umami-software/umami",
+    "category": "analytics",
+    "description": "Privacy-focused web analytics, a simple alternative to Google Analytics.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "bluesky-social/atproto",
+    "category": "api",
+    "description": "Reference implementation and libraries for the AT Protocol behind Bluesky.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "davidteather/TikTok-Api",
+    "category": "api",
+    "description": "Unofficial Python wrapper for TikTok. Can break when TikTok changes.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-24"
+  },
+  {
+    "repo": "facebook/facebook-python-business-sdk",
+    "category": "api",
+    "description": "Official Python SDK for Meta's Marketing API.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-21"
+  },
+  {
+    "repo": "halcy/Mastodon.py",
+    "category": "api",
+    "description": "Python wrapper for the Mastodon API.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "isaackogan/TikTokLive",
+    "category": "api",
+    "description": "Unofficial Python library to read TikTok LIVE streams.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-10"
+  },
+  {
+    "repo": "MarshalX/atproto",
+    "category": "api",
+    "description": "Python SDK for the AT Protocol and Bluesky.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "neet/masto.js",
+    "category": "api",
+    "description": "Mastodon API client for JavaScript and TypeScript.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-01"
+  },
+  {
+    "repo": "praw-dev/praw",
+    "category": "api",
+    "description": "Python wrapper for the Reddit API.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "python-telegram-bot/python-telegram-bot",
+    "category": "api",
+    "description": "Python wrapper for the Telegram Bot API.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "Rapptz/discord.py",
+    "category": "api",
+    "description": "Python API wrapper for Discord.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-07"
+  },
+  {
+    "repo": "subzeroid/instagrapi",
+    "category": "api",
+    "description": "Python library for Instagram's private API. Unofficial, can break and may break Instagram's rules.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "tweepy/tweepy",
+    "category": "api",
+    "description": "Python library for the X (Twitter) API.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-02"
+  },
+  {
+    "repo": "activepieces/activepieces",
+    "category": "auto",
+    "description": "No-code automation with social media and AI pieces.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "huginn/huginn",
+    "category": "auto",
+    "description": "Build agents that watch the web and act for you, including posting and alerts.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "n8n-io/n8n",
+    "category": "auto",
+    "description": "Workflow automation with many social network nodes. Fair-code license, check terms.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "category": "content",
+    "description": "Web interface for Stable Diffusion image generation.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-02"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "category": "content",
+    "description": "Node-based interface for image, video and audio generation models.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "category": "content",
+    "description": "Simple image generation tool built on Stable Diffusion XL.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2025-12-01"
+  },
+  {
+    "repo": "ollama/ollama",
+    "category": "content",
+    "description": "Run large language models locally to draft captions and post ideas.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mikf/gallery-dl",
+    "category": "download",
+    "description": "Command-line tool to download image galleries and collections from many sites.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "category": "download",
+    "description": "Command-line downloader for video and audio from many sites.",
+    "license": "Unlicense",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "bluesky-social/social-app",
+    "category": "network",
+    "description": "The Bluesky app for web, iOS and Android.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Chocobozzz/PeerTube",
+    "category": "network",
+    "description": "Federated video platform you can self-host.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "LemmyNet/lemmy",
+    "category": "network",
+    "description": "Federated link aggregator and forum, a Reddit-style network you can host.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mastodon/mastodon",
+    "category": "network",
+    "description": "Self-hosted microblogging network that federates with others.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "misskey-dev/misskey",
+    "category": "network",
+    "description": "Federated microblogging platform with many features.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "owncast/owncast",
+    "category": "network",
+    "description": "Self-hosted live streaming and chat server.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "pixelfed/pixelfed",
+    "category": "network",
+    "description": "Federated photo sharing platform, an Instagram-style network.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "writefreely/writefreely",
+    "category": "network",
+    "description": "Markdown-based publishing platform that federates over ActivityPub.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-01"
+  },
+  {
+    "repo": "brightbeanxyz/brightbean-studio",
+    "category": "scheduler",
+    "description": "Self-hostable platform for scheduling and managing posts across networks.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "cogsend/cogsend",
+    "category": "scheduler",
+    "description": "Self-hosted scheduler that publishes one post to several connected accounts.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "getopenpost/openpost",
+    "category": "scheduler",
+    "description": "Create, adapt, schedule and track social posts. Self-hostable.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "gitroomhq/postiz-app",
+    "category": "scheduler",
+    "description": "Self-hostable social media scheduler with AI helpers and many network integrations.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "inovector/mixpost",
+    "category": "scheduler",
+    "description": "Self-hosted social media management software for Laravel.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-16"
+  },
+  {
+    "repo": "instaloader/instaloader",
+    "category": "scrape",
+    "description": "Download public Instagram photos, videos and metadata. Check Instagram's terms.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "vladkens/twscrape",
+    "category": "scrape",
+    "description": "Python tool to read public X data. Unofficial, check X's terms.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  }
+]

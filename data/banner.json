@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "POST",
+  "SCHEDULE",
+  "REELS",
+  "HASHTAG",
+  "THREAD",
+  "REACH",
+  "ENGAGE",
+  "CAPTION",
+  "QUEUE",
+  "FEED",
+  "DM",
+  "API",
+  "ANALYTICS",
+  "CALENDAR",
+  "REPLY",
+  "STORY"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Social Media Tools",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "SCHEDULERS  |  APIS  |  ANALYTICS",
+ "sub2": "AUTOMATION  |  CONTENT  |  LISTENING",
+ "foot": "Open-source social media software, each checked for license and activity"
+}
